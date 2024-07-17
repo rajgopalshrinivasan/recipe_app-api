@@ -9,4 +9,4 @@ def add(x, y):
 
 
 def subtract(x, y):
-    return 0
+    return x - y
